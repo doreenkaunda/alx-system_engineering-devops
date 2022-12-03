@@ -1,4 +1,4 @@
 shell permission
 #!/bin/bash
 whoami
-s
+

@@ -1,4 +1,3 @@
-shell permission
 #!/bin/bash
 whoami
 

@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Doreen Kaunda** - [arvicrin](https://github.com/arvicrin)
+* **Doreen Kaunda**

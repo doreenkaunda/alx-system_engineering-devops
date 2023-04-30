@@ -83,4 +83,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Daniel Chabala**
+* **Doreen Kaunda**
